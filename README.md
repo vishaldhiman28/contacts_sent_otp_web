@@ -3,7 +3,7 @@ This is a Contacts List Web in which you can send an OTP (via SMS) from a list o
 Some Explanation about the various files:
 
 
-├── App.css : Base css
+<p>├── App.css : Base css</p>
 ├── App.js : It contains main structure of routes in the react app.
 ├── App.test.js :
 ├── components: This contains all the components I used for the app.
