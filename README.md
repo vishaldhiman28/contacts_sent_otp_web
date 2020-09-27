@@ -1,8 +1,11 @@
+ # contacts_sent_otp_web
 This is a Contacts List Web in which you can send an OTP (via SMS) from a list of contacts and see History of OTP Messages. 
 
+
+## Description
 Description of the various files:
 
-
+```bash
 <p>├── App.css : Base css</p>
 <p>├── App.js : It contains main structure of routes in the react app.</p>
 <p>├── App.test.js :</p>
@@ -18,3 +21,4 @@ Description of the various files:
 <p>│ ├── msg_history.js: This extract all message history from server and passes that to List Component. </p>
 <p>│</p>
 <p>│ └── send_otp.js: This contains all the logic related to the page where otp is sent to contact.</p>
+```
